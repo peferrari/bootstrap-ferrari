@@ -65,3 +65,12 @@ body {
 .shop-uno, .shop-dos, .shop-tres {
     width: 30%;
 }
+
+.redes-uno, .redes-dos, .redes-tres {
+    width: 20%;
+}
+
+.card:hover{
+    transform: translateX(50%);
+    transition: all 1.5s linear;
+}
