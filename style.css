@@ -31,7 +31,17 @@ body {
     transition: all 1.5s;
 }
 
+.news-links {
+    margin: 20px;
+    padding: 20px;
+}
+
 .news-title {
+    display: flex;
+    justify-content: center;
+}
+
+.trailers-title {
     display: flex;
     justify-content: center;
 }
