@@ -12,7 +12,9 @@ body {
     border-radius: 10%;
 }
 
-.img-uno, .img-dos, .img-tres {
+.img-uno,
+.img-dos,
+.img-tres {
     width: 30%;
 }
 
@@ -62,15 +64,19 @@ body {
     align-items: center;
 }
 
-.shop-uno, .shop-dos, .shop-tres {
+.shop-uno,
+.shop-dos,
+.shop-tres {
     width: 30%;
 }
 
-.redes-uno, .redes-dos, .redes-tres {
+.redes-uno,
+.redes-dos,
+.redes-tres {
     width: 20%;
 }
 
-.card:hover{
+.card:hover {
     transform: translateX(50%);
     transition: all 1.5s linear;
 }
