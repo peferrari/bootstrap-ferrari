@@ -45,3 +45,23 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.shop-title {
+    display: flex;
+    justify-content: center;
+}
+
+.comunidad-title {
+    display: flex;
+    justify-content: center;
+}
+
+.accordion-body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.shop-uno, .shop-dos, .shop-tres {
+    width: 30%;
+}
