@@ -81,7 +81,7 @@ body {
     width: 20%;
 }
 
-.card .redes:hover  {
+footer .card:hover  {
     transform: translateX(50%);
     transition: all 1.5s linear;
 }
