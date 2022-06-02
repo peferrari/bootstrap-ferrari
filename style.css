@@ -15,10 +15,10 @@ body {
 .img-uno,
 .img-dos,
 .img-tres {
-    width: 30%;
+    width: 100%;
 }
 
-.img-uno:hover {
+/* .img-uno:hover {
     transform: scale(1.3);
     transition: all 1.5s;
 }
@@ -31,16 +31,21 @@ body {
 .img-tres:hover {
     transform: scale(1.3);
     transition: all 1.5s;
-}
+} */
 
 .news-links {
-    margin: 20px;
-    padding: 20px;
+    margin: 10px;
+    padding: 10px;
 }
 
 .news-title {
     display: flex;
     justify-content: center;
+}
+
+.news-section {
+    display: flex;
+    justify-content: space-between;
 }
 
 .trailers-title {
@@ -76,7 +81,7 @@ body {
     width: 20%;
 }
 
-.card:hover {
+.card .redes:hover  {
     transform: translateX(50%);
     transition: all 1.5s linear;
 }
